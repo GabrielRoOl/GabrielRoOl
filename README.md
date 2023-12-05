@@ -1,4 +1,4 @@
-# Olá, me chamo Gabriel 
+### Olá, me chamo Gabriel 
 
   👋 
 - 👀 Atualmente faço faculdade em Ciencias da Computação, me formo em 2027
