@@ -1,10 +1,9 @@
 # Olá, me chamo Gabriel 
 
-- 👋 Hi, I’m @GabrielRoOl
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+  👋 
+- 👀 Atualmente faço faculdade em Ciencias da Computação, me formo em 2027
+- 🌱 Ainda não trabalho na área de TI
+- 💞️ Estou aprendendo e gosto de desenvolver códigos
 
 <!---
 GabrielRoOl/GabrielRoOl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
