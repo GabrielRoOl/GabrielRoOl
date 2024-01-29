@@ -4,6 +4,6 @@
 - 🌱 Ainda não trabalho na área de TI
 - 💞️ Estou aprendendo e gosto de desenvolver códigos
 
---exemplo--
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRoOl&layout=compact)
